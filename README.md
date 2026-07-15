@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Tokscale Stats](https://tokscale.ai/api/embed/MirDraco/svg)](https://tokscale.ai/u/MirDraco)
 <!--
 **MirDraco/MirDraco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
