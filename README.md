@@ -1,17 +1,13 @@
-## Hi there 👋
-[![Tokscale Stats](https://tokscale.ai/api/embed/MirDraco/svg)](https://tokscale.ai/u/MirDraco)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+MirDraco+%F0%9F%91%8B;AI+Big+Data+Student+%F0%9F%8E%93;Self-hosted+Server+Tinkerer+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
+</h1>
 
-<!--
-**MirDraco/MirDraco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mirdraco&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://tokscale.ai/u/mirdraco">
+    <img src="https://tokscale.ai/api/embed/mirdraco/svg?view=3d&tokens=compact&cost=compact" alt="Tokscale Stats" />
+  </a>
+</p>
