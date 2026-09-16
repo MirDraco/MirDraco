@@ -12,12 +12,12 @@
     <g transform="translate(0, 20)">
       <path d="M8 0L10.2 5.5L16 6L11.5 10L13 16L8 13L3 16L4.5 10L0 6L5.8 5.5L8 0Z" class="icon" transform="scale(0.9)"/>
       <text x="25" y="12" class="stat">Total Stars Earned:</text>
-      <text x="350" y="12" class="stat bold">2</text>
+      <text x="350" y="12" class="stat bold">3</text>
     </g>
     <g transform="translate(0, 45)">
       <circle cx="7" cy="8" r="7" class="icon"/>
       <text x="25" y="12" class="stat">Total Commits (2026):</text>
-      <text x="350" y="12" class="stat bold">35</text>
+      <text x="350" y="12" class="stat bold">38</text>
     </g>
     <g transform="translate(0, 70)">
       <path d="M7 1v12a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3" class="icon" stroke="#bd93f9" stroke-width="2" fill="none"/>
