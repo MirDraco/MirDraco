@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+MirDraco+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;Self-hosted+Server+Tinkerer+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+MirDraco+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;Self-hosted+Server+Tinkerer+%F0%9F%96%A5%EF%B8%8F;AI+Agents+%26+Autonomous+Dev+%F0%9F%A4%96" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -21,6 +21,20 @@
     <img src="https://tokscale.ai/api/embed/MirDraco/svg?view=3d&tokens=compact&cost=compact" alt="Tokscale Stats" />
   </a>
 </p>
+
+---
+
+### 🤖 AI & Agentic Development
+
+- **AI Assistants & Models** :  
+  <img src="https://img.shields.io/badge/OpenAI_GPT-412991?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97706?style=flat&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white"/>
+
+- **Autonomous Agent Workflows** :  
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hermes_Agent-FFDF00?style=flat&logo=robot&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NanoClaw-06B6D4?style=flat&logo=powershell&logoColor=white"/>
 
 ---
 
