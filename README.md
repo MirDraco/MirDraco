@@ -11,9 +11,9 @@
 ### 📊 GitHub Stats & Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sand-six-91.vercel.app/api?username=MirDraco&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_rank=true&line_height=24" alt="MirDraco's GitHub Stats" />
+  <img src="./stats.svg" alt="MirDraco's GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=MirDraco&layout=compact&theme=dracula" alt="Top Langs" />
+  <img src="./top-langs.svg" alt="Top Langs" />
 </p>
 
 <p align="center">
