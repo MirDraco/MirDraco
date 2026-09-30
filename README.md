@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=650&height=50&lines=Hi%2C+I'm+Mir+%F0%9F%91%8B;Computer+Software+Engineering+Student+%F0%9F%8E%93;Self-hosted+Server+%F0%9F%96%A5%EF%B8%8F;AI+Agents+%26+Autonomous+Dev" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mirdraco&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
 ---
 
 ### 📊 GitHub Stats & Most Used Languages
