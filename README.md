@@ -6,14 +6,6 @@
 
 ---
 
-### 📊 GitHub Stats & Most Used Languages
-
-<p align="center">
-  <img src="./stats.svg" alt="MirDraco's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="./top-langs.svg" alt="Top Langs" />
-</p>
-
 <p align="center">
   <a href="https://tokscale.ai/u/MirDraco">
     <img src="https://tokscale.ai/api/embed/MirDraco/svg?view=3d&tokens=compact&cost=compact" alt="Tokscale Stats" />
@@ -39,18 +31,12 @@
 ### 🛠️ Primary Tech Stacks
 
 - **Language & Development** :  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 
 - **Server & Infra** :  
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white"/>
 
 - **Version Control & Collaboration** :  
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
